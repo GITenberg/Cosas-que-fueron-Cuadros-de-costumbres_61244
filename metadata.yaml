@@ -1,0 +1,38 @@
+_repo: Cosas-que-fueron-Cuadros-de-costumbres_61244
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alarcón, Pedro Antonio de
+    aliases:
+    - De Alarcón, Pedro Antonio
+    - Ariza, Pedro Antonio de Alarcón y
+    - Alarcon, Pedro Antonio de
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '6108'
+    url: http://www.gutenberg.org/2009/agents/6108
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+    - http://en.wikipedia.org/wiki/Pedro_Antonio_de_Alarcón
+description: ''
+gutenberg_issued: '2020-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61244'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Madrid (Spain) -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, Spanish'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Prólogo de la primera edición -- Advertencia de los editores -- La
+  Noche-buena del poeta -- El pañuelo -- Si yo tuviera cien millones -- Cartas á mis
+  muertos -- Lo que se ve con un anteojo -- El año nuevo -- La fea -- Diario de un
+  madrileño -- Visitas á la Marquesa -- El cometa nuevo -- A una máscara -- Bocanada
+  de humo -- El Carnaval en Madrid -- Mis recuerdos de agricultor -- Un maestro de
+  antaño.
+title: 'Cosas que fueron: Cuadros de costumbres'
+url: http://www.gutenberg.org/ebooks/61244
